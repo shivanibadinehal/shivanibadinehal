@@ -6,7 +6,7 @@
 <br>
 
 ### 👨‍🎓 Resume
-<p class="has-line-data" data-line-start="2" data-line-end="3"><https://drive.google.com/drive/u/0/folders/1YrpPyyTEdkIkb6YdSQgfPaBf264FhTWE"><img src="https://raw.githubusercontent.com/1919kiran/1919kiran/c587651a0b7a03c83ad450714cb9d2d5a47222f0/RESUME.svg" alt="N|Solid" width="96" height="28"></a></p>
+<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/drive/u/0/folders/1YrpPyyTEdkIkb6YdSQgfPaBf264FhTWE"><img src="https://raw.githubusercontent.com/1919kiran/1919kiran/c587651a0b7a03c83ad450714cb9d2d5a47222f0/RESUME.svg" alt="N|Solid" width="96" height="28"></a></p>
 
 <br>
 
