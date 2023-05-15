@@ -1,6 +1,6 @@
 📍 Baltimore, MD
 <br>
-📧 shivanb1@umbc.edu
+📧 badinehalshivani@gmail.com
 </p>
 
 <br>
