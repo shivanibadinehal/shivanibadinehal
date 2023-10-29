@@ -1,6 +1,6 @@
-📍 Baltimore, MD
+📍 Dallas, TX (Open to relocation)
 <br>
-📧 badinehalshivani@gmail.com
+📧 badinehalshivani@gmail.com 
 </p>
 
 <br>
