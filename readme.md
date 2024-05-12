@@ -1,6 +1,4 @@
-📍 Dallas, TX (Open to relocation)
-<br>
-📧 shivanib1308@gmail.com 
+📧 badinehalshivani@gmail.com 
 </p>
 
 <br>
