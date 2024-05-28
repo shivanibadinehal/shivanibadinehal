@@ -1,4 +1,4 @@
-📧 badinehalshivani@gmail.com 
+📧 shivanib1308@gmail.com 
 </p>
 
 <br>
