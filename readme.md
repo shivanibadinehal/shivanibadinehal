@@ -38,12 +38,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
-  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
-    <img src="https://img.shields.io/badge/Agile_(Scrum)-7D6D82?style=for-the-badge&logo=agile&logoColor=white" alt="Agile (Scrum)" style="border-radius: 8px;"/><br>
-    <strong>Agile (Scrum)</strong><br>
-    Iterative approach to project management focusing on delivering incremental improvements through sprints.
-  </div>
-
   <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
     <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" style="border-radius: 8px;"/><br>
     <strong>Agile</strong><br>
