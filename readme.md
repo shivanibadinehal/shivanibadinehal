@@ -33,23 +33,35 @@
 ![SAS](https://img.shields.io/badge/SAS-B34936?style=for-the-badge&logo=sas&logoColor=white)
 ![STATA](https://img.shields.io/badge/STATA-1A2C3D?style=for-the-badge&logo=stata&logoColor=white)
 
+
 ## 🛠️ Methodologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
   <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
-    <img src="https://img.shields.io/badge/Agile_(Scrum)-7D6D82?style=for-the-badge&logo=agile&logoColor=white" alt="Agile (Scrum)"/><br>
+    <img src="https://img.shields.io/badge/Agile_(Scrum)-7D6D82?style=for-the-badge&logo=agile&logoColor=white" alt="Agile (Scrum)" style="border-radius: 8px;"/><br>
     <strong>Agile (Scrum)</strong><br>
-    Iterative approach to project management and development, focusing on delivering small, incremental improvements.
+    Iterative approach to project management focusing on delivering incremental improvements through sprints.
   </div>
 
   <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
-    <img src="https://img.shields.io/badge/SDLC-009688?style=for-the-badge&logo=sdlc&logoColor=white" alt="SDLC"/><br>
-    <strong>SDLC</strong><br>
-    Structured approach to software development, including stages such as planning, analysis, design, implementation, and maintenance.
+    <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" style="border-radius: 8px;"/><br>
+    <strong>Agile</strong><br>
+    Flexible methodology emphasizing collaboration, adaptability, and customer feedback throughout the development process.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow:
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
+    <img src="https://img.shields.io/badge/SDLC-009688?style=for-the-badge&logo=software-development&logoColor=white" alt="SDLC" style="border-radius: 8px;"/><br>
+    <strong>SDLC</strong><br>
+    Structured approach to software development including stages like planning, analysis, design, implementation, and maintenance.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
+    <img src="https://img.shields.io/badge/Waterfall-FF5722?style=for-the-badge&logo=waterfall&logoColor=white" alt="Waterfall" style="border-radius: 8px;"/><br>
+    <strong>Waterfall</strong><br>
+    Sequential design process where progress flows in one direction through phases like conception, initiation, analysis, design, construction, testing, and maintenance.
+  </div>
+
      
 ## 💻 Tech Stack
 
