@@ -5,10 +5,23 @@
 📧 [shivani.badinehal@outlook.com](mailto:shivani.badinehal@outlook.com)
 
 
-## 🌐 Socials 
+## 🌐 Socials
 
-📧 [Email](mailto:shivani.badinehal@outlook.com)
-   [Blog](https://medium.com/@shivanir3ddy)
+<div style="display: flex; gap: 15px;">
+
+  <a href="mailto:shivani.badinehal@outlook.com" style="text-decoration: none; color: #FFFFFF; background-color: #0078D4; padding: 10px 15px; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    📧 Email
+  </a>
+
+  <a href="https://medium.com/@shivanir3ddy" style="text-decoration: none; color: #FFFFFF; background-color: #03A87C; padding: 10px 15px; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    📝 Blog
+  </a>
+
+  <a href="https://www.linkedin.com/in/shivanir3ddy/" style="text-decoration: none; color: #FFFFFF; background-color: #0A66C2; padding: 10px 15px; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    🔗 LinkedIn
+  </a>
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -20,9 +33,24 @@
 ![SAS](https://img.shields.io/badge/SAS-B34936?style=for-the-badge&logo=sas&logoColor=white)
 ![STATA](https://img.shields.io/badge/STATA-1A2C3D?style=for-the-badge&logo=stata&logoColor=white)
 
-**Methodologies:**  
-Agile (Scrum), SDLC, Waterfall
+## 🛠️ Methodologies
 
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
+    <img src="https://img.shields.io/badge/Agile_(Scrum)-7D6D82?style=for-the-badge&logo=agile&logoColor=white" alt="Agile (Scrum)"/><br>
+    <strong>Agile (Scrum)</strong><br>
+    Iterative approach to project management and development, focusing on delivering small, incremental improvements.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center;">
+    <img src="https://img.shields.io/badge/SDLC-009688?style=for-the-badge&logo=sdlc&logoColor=white" alt="SDLC"/><br>
+    <strong>SDLC</strong><br>
+    Structured approach to software development, including stages such as planning, analysis, design, implementation, and maintenance.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow:
+     
 ## 💻 Tech Stack
 
 **Databases:**  
@@ -46,56 +74,66 @@ NoSQL: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badg
 - 
 ## 📊 Analytical Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Data Mining</strong><br>
-    Experienced in discovering patterns and insights from large datasets using techniques such as clustering, classification, and association rule mining.
+    <img src="https://img.shields.io/badge/Skill-Data_Mining-0073E6?style=flat&logo=data-mining&logoColor=white" alt="Data Mining"/>
+    Discover patterns and insights from large datasets using clustering, classification, and association rule mining.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Data Cleansing</strong><br>
-    Proficient in cleaning and preparing data for analysis by identifying and correcting inaccuracies, missing values, and inconsistencies.
+    <img src="https://img.shields.io/badge/Skill-Data_Cleansing-8BC34A?style=flat&logo=data-cleansing&logoColor=white" alt="Data Cleansing"/>
+    Clean and prepare data for analysis by correcting inaccuracies and inconsistencies.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Statistical Analysis</strong><br>
-    Skilled in applying statistical methods to analyze and interpret data, including hypothesis testing, regression analysis, and variance analysis.
+    <img src="https://img.shields.io/badge/Skill-Statistical_Analysis-FF5722?style=flat&logo=statistical-analysis&logoColor=white" alt="Statistical Analysis"/>
+    Apply statistical methods to analyze data, including hypothesis testing and regression analysis.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Data Visualization</strong><br>
-    Expertise in creating meaningful visual representations of data to communicate insights effectively using tools like Tableau, Power BI, and Matplotlib.
+    <img src="https://img.shields.io/badge/Skill-Data_Visualization-3F51B5?style=flat&logo=data-visualization&logoColor=white" alt="Data Visualization"/>
+    Create visual representations of data to effectively communicate insights using tools like Tableau and Power BI.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Text Mining</strong><br>
-    Knowledgeable in extracting useful information from unstructured text data through techniques like sentiment analysis, topic modeling, and entity recognition.
+    <img src="https://img.shields.io/badge/Skill-Text_Mining-FF9800?style=flat&logo=text-mining&logoColor=white" alt="Text Mining"/>
+    Extract useful information from unstructured text data through techniques like sentiment analysis and topic modeling.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Data Wrangling</strong><br>
-    Experienced in transforming and consolidating raw data into a structured format suitable for analysis using tools like Pandas and SQL.
+    <img src="https://img.shields.io/badge/Skill-Data_Wrangling-8BC34A?style=flat&logo=data-wrangling&logoColor=white" alt="Data Wrangling"/>
+    Transform and consolidate raw data into a structured format suitable for analysis.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Data Warehousing</strong><br>
-    Proficient in designing and managing data warehouses to store and retrieve large volumes of data efficiently, ensuring data integrity and accessibility.
+    <img src="https://img.shields.io/badge/Skill-Data_Warehousing-FF5722?style=flat&logo=data-warehousing&logoColor=white" alt="Data Warehousing"/>
+    Design and manage data warehouses to store and retrieve large volumes of data efficiently.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Critical Thinking</strong><br>
-    Adept at evaluating complex problems, identifying key issues, and developing effective solutions based on data-driven insights.
+    <img src="https://img.shields.io/badge/Skill-Critical_Thinking-3F51B5?style=flat&logo=critical-thinking&logoColor=white" alt="Critical Thinking"/>
+    Evaluate complex problems, identify key issues, and develop effective data-driven solutions.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #E8F4F8; border: 2px solid #B0D4DF; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Problem-Solving</strong><br>
-    Strong ability to address and resolve issues by analyzing data, understanding underlying causes, and implementing corrective measures.
+    <img src="https://img.shields.io/badge/Skill-Problem_Solving-FF9800?style=flat&logo=problem-solving&logoColor=white" alt="Problem-Solving"/>
+    Address and resolve issues by analyzing data and implementing corrective measures.
   </div>
 
-  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+  <div style="flex: 1 1 200px; padding: 15px; background-color: #F9FBE7; border: 2px solid #F1E4B3; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <strong>Communication</strong><br>
-    Effective in conveying technical findings and insights to non-technical stakeholders through clear, concise reports and presentations.
+    <img src="https://img.shields.io/badge/Skill-Communication-8BC34A?style=flat&logo=communication&logoColor=white" alt="Communication"/>
+    Convey technical findings and insights clearly to non-technical stakeholders through reports and presentations.
   </div>
 
 </div>
