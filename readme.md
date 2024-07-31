@@ -41,12 +41,65 @@ NoSQL: ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badg
 **Visualization Skills:**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) ![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-F2C811?style=for-the-badge&logo=amazon-quicksight&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3D4F7C?style=for-the-badge&logo=plotly&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### **Version Control Tools**
-- **Git**: Experienced in version control and collaboration.
-- **GitHub**: Proficient in managing repositories and contributing to open source.
+**Version Control Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - 
-**Analytical Skills:**  
-Data Mining, Data Cleansing, Statistical Analysis, Data Visualization, Text Mining, Data Wrangling, Data Warehousing, Critical Thinking, Problem-solving, Communication
+## 📊 Analytical Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Data Mining</strong><br>
+    Experienced in discovering patterns and insights from large datasets using techniques such as clustering, classification, and association rule mining.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Data Cleansing</strong><br>
+    Proficient in cleaning and preparing data for analysis by identifying and correcting inaccuracies, missing values, and inconsistencies.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Statistical Analysis</strong><br>
+    Skilled in applying statistical methods to analyze and interpret data, including hypothesis testing, regression analysis, and variance analysis.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Data Visualization</strong><br>
+    Expertise in creating meaningful visual representations of data to communicate insights effectively using tools like Tableau, Power BI, and Matplotlib.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Text Mining</strong><br>
+    Knowledgeable in extracting useful information from unstructured text data through techniques like sentiment analysis, topic modeling, and entity recognition.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Data Wrangling</strong><br>
+    Experienced in transforming and consolidating raw data into a structured format suitable for analysis using tools like Pandas and SQL.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Data Warehousing</strong><br>
+    Proficient in designing and managing data warehouses to store and retrieve large volumes of data efficiently, ensuring data integrity and accessibility.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Critical Thinking</strong><br>
+    Adept at evaluating complex problems, identifying key issues, and developing effective solutions based on data-driven insights.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Problem-Solving</strong><br>
+    Strong ability to address and resolve issues by analyzing data, understanding underlying causes, and implementing corrective measures.
+  </div>
+
+  <div style="flex: 1 1 200px; padding: 10px; background-color: #F9F9F9; border: 1px solid #DDDDDD; border-radius: 8px;">
+    <strong>Communication</strong><br>
+    Effective in conveying technical findings and insights to non-technical stakeholders through clear, concise reports and presentations.
+  </div>
+
+</div>
+
 
 
 
