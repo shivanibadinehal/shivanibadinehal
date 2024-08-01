@@ -1,9 +1,7 @@
 
 # Shivani Badinehal
 
-📍 North Carolina
 📧 [shivani.badinehal@outlook.com](mailto:shivani.badinehal@outlook.com)
-
 
 ## 🌐 Socials
 
