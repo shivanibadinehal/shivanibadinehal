@@ -1,5 +1,5 @@
 
-# Shivani Badinehal
+# Shivani Reddy
 
 📧 [shivanibadinehal785@gmail.com](mailto:shivanibadinehal785@gmail.com)
 
