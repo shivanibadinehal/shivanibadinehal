@@ -1,8 +1,6 @@
 
 # Shivani Reddy
 
-📧 [shivanibadinehal785@gmail.com](mailto:shivanibadinehal785@gmail.com)
-
 ## 🌐 Socials
 
 <div style="display: flex; gap: 15px;">
