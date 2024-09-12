@@ -13,10 +13,6 @@
     📝 Blog
   </a>
 
-  <a href="https://www.linkedin.com/in/shivanir3ddy/" style="text-decoration: none; color: #FFFFFF; background-color: #0A66C2; padding: 10px 15px; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    🔗 LinkedIn
-  </a>
-
 </div>
 
 ## 💻 Tech Stack
